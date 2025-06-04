@@ -2896,7 +2896,6 @@ TalesFromDF
 foxholegame
 MilwaukeeTool
 TheOdysseyHadAPurpose
-TurkishCeleb
 Schwab
 battlefield_one
 legostarwars
