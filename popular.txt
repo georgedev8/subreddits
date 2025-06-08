@@ -2888,7 +2888,6 @@ TrackMania
 PHMotorcycles
 AskEconomics
 dewrim
-VPNTorrents
 leaves
 Hyundai
 Daniellarson
@@ -4384,3 +4383,4 @@ McMansionHell
 StructuralEngineering
 modular
 Reno
+TurkeyJerky
